@@ -1,3 +1,6 @@
+33.There is an integer array nums sorted in ascending order (with distinct values). nums is possibly left rotated at an unknown index. Given the \
+&emsp;&ensp;array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
+
 53.Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
 152.Given an integer array nums, find a subarray that has the largest product, and return the product.
