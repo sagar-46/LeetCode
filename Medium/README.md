@@ -8,6 +8,9 @@
 153.Suppose an array of length n sorted in ascending order is rotated between 1 and n times. Given the sorted rotated array nums of unique \
 &emsp;&emsp;elements, return the minimum element of this array.
 
+167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
+&emsp;&ensp;specific target number. Return the indices of the two numbers added by one as an integer array of length 2.
+
 238.Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
 
