@@ -12,3 +12,7 @@
 
 219.Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] \
 &ensp; &emsp;and abs(i - j) <= k.
+
+953.In an alien language, surprisingly, they also use English lowercase letters, but possibly in a different order. The order of the alphabet is \
+&ensp; &emsp;some permutation of lowercase letters. Given a sequence of words written in the alien language, and the order of the alphabet, return true 
+&ensp; &emsp;if and only if the given words are sorted lexicographically in this alien language.
