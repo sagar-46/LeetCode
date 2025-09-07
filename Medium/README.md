@@ -4,6 +4,9 @@
 15.Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that nums[i] + nums[j] + nums[k] == 0.Notice that the \
 &emsp;&ensp;solution set must not contain duplicate triplets.
 
+31.A permutation of an array of integers is an arrangement of its members into a sequence or linear order.For example, the next permutation of 
+&emsp;&ensp;arr = [1,2,3] is [1,3,2].Given an array of integers nums, find the next permutation of nums.
+
 33.There is an integer array nums sorted in ascending order (with distinct values). nums is possibly left rotated at an unknown index. Given the \
 &emsp;&ensp;array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 
