@@ -19,3 +19,6 @@
 953.In an alien language, surprisingly, they also use English lowercase letters, but possibly in a different order. The order of the alphabet is \
 &ensp; &emsp;some permutation of lowercase letters. Given a sequence of words written in the alien language, and the order of the alphabet, return true 
 &ensp; &emsp;if and only if the given words are sorted lexicographically in this alien language.
+
+1929.Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] \
+&ensp; &emsp;for 0 <= i < n (0-indexed).Specifically, ans is the concatenation of two nums arrays.Return the array ans.
