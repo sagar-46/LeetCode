@@ -25,6 +25,8 @@
 &ensp; &emsp;some permutation of lowercase letters. Given a sequence of words written in the alien language, and the order of the alphabet, return true 
 &ensp; &emsp;if and only if the given words are sorted lexicographically in this alien language.
 
+977.Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+
 1299.Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last \
 &emsp; &emsp;element with -1.After doing so, return the array.
 
