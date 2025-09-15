@@ -21,6 +21,9 @@
 704.Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If \
 &ensp;&emsp;target exists, then return its index. Otherwise, return -1.
 
+905.Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers. Return any array that \
+&ensp;&emsp;satisfies this condition.
+
 953.In an alien language, surprisingly, they also use English lowercase letters, but possibly in a different order. The order of the alphabet is \
 &ensp; &emsp;some permutation of lowercase letters. Given a sequence of words written in the alien language, and the order of the alphabet, return true 
 &ensp; &emsp;if and only if the given words are sorted lexicographically in this alien language.
