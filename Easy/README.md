@@ -22,6 +22,12 @@
 219.Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] \
 &ensp; &emsp;and abs(i - j) <= k.
 
+412.Given an integer n, return a string array answer (1-indexed) where: \
+&ensp; &emsp;answer[i] == "FizzBuzz" if i is divisible by 3 and 5. \
+&ensp; &emsp;answer[i] == "Fizz" if i is divisible by 3. \
+&ensp; &emsp;answer[i] == "Buzz" if i is divisible by 5. \
+&ensp; &emsp;answer[i] == i (as a string) if none of the above conditions are true.
+
 485.Given a binary array nums, return the maximum number of consecutive 1's in the array.
 
 704.Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If \
