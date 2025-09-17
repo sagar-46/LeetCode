@@ -1,5 +1,8 @@
 01.Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. 
 
+14.Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty \
+&ensp;&emsp;string "".
+
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. \
 &ensp;&emsp;Then return the number of elements in nums which are not equal to val.
 
