@@ -3,6 +3,9 @@
 14.Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty \
 &ensp;&emsp;string "".
 
+26.Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears \
+&ensp;&emsp;only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
+
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. \
 &ensp;&emsp;Then return the number of elements in nums which are not equal to val.
 
