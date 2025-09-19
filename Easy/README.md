@@ -9,6 +9,9 @@
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. \
 &ensp;&emsp;Then return the number of elements in nums which are not equal to val.
 
+35.Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if \
+&ensp;&emsp;it were inserted in order. You must write an algorithm with O(log n) runtime complexity.
+
 69.Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be \
 &ensp;&emsp;non-negative as well. You must not use any built-in exponent function or operator.
 
