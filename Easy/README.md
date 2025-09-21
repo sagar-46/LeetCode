@@ -9,6 +9,8 @@
 27.Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. \
 &ensp;&emsp;Then return the number of elements in nums which are not equal to val.
 
+28.Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
 35.Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if \
 &ensp;&emsp;it were inserted in order. You must write an algorithm with O(log n) runtime complexity.
 
