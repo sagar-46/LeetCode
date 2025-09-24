@@ -21,6 +21,8 @@
 69.Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be \
 &ensp;&emsp;non-negative as well. You must not use any built-in exponent function or operator.
 
+83.Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+
 88.You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of \
 &ensp;&emsp;elements in nums1 and nums2 respectively. Merge nums1 and nums2 into a single array sorted in non-decreasing order. The final sorted 
 &ensp;&emsp;array should not be returned by the function, but instead be stored inside the array nums1. 
