@@ -31,6 +31,11 @@
 &ensp;&emsp;single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from 
 &ensp;&emsp;this transaction. If you cannot achieve any profit, return 0. 
 
+141.Given head, the head of a linked list, determine if the linked list has a cycle in it. There is a cycle in a linked list if there is some node in the \
+&ensp;&emsp;list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's \
+&ensp;&emsp;next pointer is connected to. Note that pos is not passed as a parameter. Return true if there is a cycle in the linked list. Otherwise, \
+&ensp;&emsp;return false.
+
 206.Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 217.Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct. 
