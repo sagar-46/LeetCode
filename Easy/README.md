@@ -3,6 +3,9 @@
 14.Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty \
 &ensp;&emsp;string "".
 
+21.You are given the heads of two sorted linked lists list1 and list2. Merge the two lists into one sorted list. The list should be made by splicing \
+&ensp;&emsp;together the nodes of the first two lists. Return the head of the merged linked list.
+
 26.Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears \
 &ensp;&emsp;only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
 
