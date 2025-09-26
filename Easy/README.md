@@ -46,6 +46,8 @@
 219.Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] \
 &ensp; &emsp;and abs(i - j) <= k.
 
+242.Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+
 283.Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements. Note that you \
 &ensp; &emsp;must do this in-place without making a copy of the array.
 
