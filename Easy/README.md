@@ -60,6 +60,9 @@
 704.Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If \
 &ensp;&emsp;target exists, then return its index. Otherwise, return -1.
 
+876.Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle \
+&ensp;&emsp;node.
+
 905.Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers. Return any array that \
 &ensp;&emsp;satisfies this condition.
 
