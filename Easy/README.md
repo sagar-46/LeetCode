@@ -3,6 +3,12 @@
 14.Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty \
 &ensp;&emsp;string "".
 
+20.Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.\
+&ensp;&emsp;An input string is valid if:\
+&ensp;&emsp;1.Open brackets must be closed by the same type of brackets.\
+&ensp;&emsp;2.Open brackets must be closed in the correct order.\
+&ensp;&emsp;3.Every close bracket has a corresponding open bracket of the same type.
+
 21.You are given the heads of two sorted linked lists list1 and list2. Merge the two lists into one sorted list. The list should be made by splicing \
 &ensp;&emsp;together the nodes of the first two lists. Return the head of the merged linked list.
 
