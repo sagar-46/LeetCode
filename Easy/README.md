@@ -40,6 +40,10 @@
 &ensp;&emsp;single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from 
 &ensp;&emsp;this transaction. If you cannot achieve any profit, return 0. 
 
+125.A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it  \
+&ensp;&emsp;reads the same forward and backward. Alphanumeric characters include letters and numbers. Given a string s, return true if it is a \
+&ensp;&emsp;palindrome, or false otherwise.
+
 141.Given head, the head of a linked list, determine if the linked list has a cycle in it. There is a cycle in a linked list if there is some node in the \
 &ensp;&emsp;list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's \
 &ensp;&emsp;next pointer is connected to. Note that pos is not passed as a parameter. Return true if there is a cycle in the linked list. Otherwise, \
