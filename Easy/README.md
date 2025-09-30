@@ -44,6 +44,9 @@
 &ensp;&emsp;reads the same forward and backward. Alphanumeric characters include letters and numbers. Given a string s, return true if it is a \
 &ensp;&emsp;palindrome, or false otherwise.
 
+136.Given a non-empty array of integers nums, every element appears twice except for one. Find that single one. You must implement a \
+&ensp;&emsp;solution with a linear runtime complexity and use only constant extra space.
+
 141.Given head, the head of a linked list, determine if the linked list has a cycle in it. There is a cycle in a linked list if there is some node in the \
 &ensp;&emsp;list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's \
 &ensp;&emsp;next pointer is connected to. Note that pos is not passed as a parameter. Return true if there is a cycle in the linked list. Otherwise, \
