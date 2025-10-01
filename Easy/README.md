@@ -93,6 +93,10 @@
 1394.Given an array of integers arr, a lucky integer is an integer that has a frequency in the array equal to its value. Return the largest lucky \
 &emsp; &emsp;integer in the array. If there is no lucky integer return -1.
 
+1518.There are numBottles water bottles that are initially full of water. You can exchange numExchange empty water bottles from the market \
+&emsp; &emsp; with one full water bottle. The operation of drinking a full water bottle turns it into an empty bottle. Given the two integers numBottles \
+&emsp; &emsp;and numExchange, return the maximum number of water bottles you can drink.
+
 1929.Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] \
 &ensp; &emsp;for 0 <= i < n (0-indexed).Specifically, ans is the concatenation of two nums arrays.Return the array ans.
 
