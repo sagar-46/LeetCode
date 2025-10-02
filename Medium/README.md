@@ -25,3 +25,11 @@
 739.Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days \
 &emsp;&ensp;you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 \
 &emsp;&ensp;instead.
+
+3100.You are given two integers numBottles and numExchange. numBottles represents the number of full water bottles that you initially have. \
+&emsp;&emsp;In one operation, you can perform one of the following operations: \
+&emsp;&emsp;Drink any number of full water bottles turning them into empty bottles. \
+&emsp;&emsp;Exchange numExchange empty bottles with one full water bottle. Then, increase numExchange by one. \
+&emsp;&emsp;Note that you cannot exchange multiple batches of empty bottles for the same value of numExchange. For example, if numBottles == 3  \
+&emsp;&emsp;and numExchange == 1, you cannot exchange 3 empty water bottles for 3 full bottles. Return the maximum number of water bottles you \
+&emsp;&emsp;can drink.
