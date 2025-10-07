@@ -104,6 +104,8 @@
 &emsp; &emsp; with one full water bottle. The operation of drinking a full water bottle turns it into an empty bottle. Given the two integers numBottles \
 &emsp; &emsp;and numExchange, return the maximum number of water bottles you can drink.
 
+1550.Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
+
 1929.Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] \
 &ensp; &emsp;for 0 <= i < n (0-indexed).Specifically, ans is the concatenation of two nums arrays.Return the array ans.
 
