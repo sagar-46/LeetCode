@@ -1,6 +1,8 @@
 02.You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their \
 &emsp;&ensp;nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
+03.Given a string s, find the length of the longest substring without duplicate characters.
+
 11.You are given an integer array height of length n. There are n vertical lines drawn. Find two lines that together with the x-axis form a \
 &emsp;&ensp;container, such that the container contains the most water. Return the maximum amount of water a container can store.
 
