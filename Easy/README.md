@@ -54,6 +54,9 @@
 &ensp;&emsp;next pointer is connected to. Note that pos is not passed as a parameter. Return true if there is a cycle in the linked list. Otherwise, \
 &ensp;&emsp;return false.
 
+169.Given an array nums of size n, return the majority element. The majority element is the element that appears more than ⌊n / 2⌋ times. You \
+&ensp;&emsp;may assume that the majority element always exists in the array.
+
 206.Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 217.Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct. 
