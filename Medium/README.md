@@ -9,6 +9,8 @@
 15.Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that nums[i] + nums[j] + nums[k] == 0.Notice that the \
 &emsp;&ensp;solution set must not contain duplicate triplets.
 
+19.Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
 31.A permutation of an array of integers is an arrangement of its members into a sequence or linear order.For example, the next permutation of 
 &emsp;&ensp;arr = [1,2,3] is [1,3,2].Given an array of integers nums, find the next permutation of nums.
 
