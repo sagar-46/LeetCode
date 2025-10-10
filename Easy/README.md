@@ -77,6 +77,8 @@
 350.Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times \
 &ensp; &emsp;as it shows in both arrays and you may return the result in any order.
 
+387.Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+
 412.Given an integer n, return a string array answer (1-indexed) where: \
 &ensp; &emsp;answer[i] == "FizzBuzz" if i is divisible by 3 and 5. \
 &ensp; &emsp;answer[i] == "Fizz" if i is divisible by 3. \
