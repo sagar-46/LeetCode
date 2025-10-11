@@ -25,6 +25,8 @@
 35.Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if \
 &ensp;&emsp;it were inserted in order. You must write an algorithm with O(log n) runtime complexity.
 
+58.Given a string s consisting of words and spaces, return the length of the last word in the string.
+
 66.You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered \
 &ensp;&emsp;from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's. Increment the large \
 &ensp;&emsp;integer by one and return the resulting array of digits.
