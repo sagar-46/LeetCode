@@ -89,6 +89,10 @@
 
 485.Given a binary array nums, return the maximum number of consecutive 1's in the array.
 
+605.You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots. \
+&ensp; &emsp;Given an integer array flowerbed containing 0's and 1's, where 0 means empty and 1 means not empty, and an integer n, return true if n \
+&ensp; &emsp;new flowers can be planted in the flowerbed without violating the no-adjacent-flowers rule and false otherwise.
+
 704.Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If \
 &ensp;&emsp;target exists, then return its index. Otherwise, return -1.
 
