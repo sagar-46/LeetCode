@@ -126,5 +126,11 @@
 3005.You are given an array nums consisting of positive integers. Return the total frequencies of elements in nums such that those elements all \
 &emsp; &emsp;have the maximum frequency. The frequency of an element is the number of occurrences of that element in the array.
 
+3024.You are given a 0-indexed integer array nums of size 3 which can form the sides of a triangle.\
+&emsp; &emsp;A triangle is called equilateral if it has all sides of equal length.\
+&emsp; &emsp;A triangle is called isosceles if it has exactly two sides of equal length.\
+&emsp; &emsp;A triangle is called scalene if all its sides are of different lengths.\
+&emsp; &emsp;Return a string representing the type of triangle that can be formed or "none" if it cannot form a triangle.
+
 3110.You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent \
 &emsp; &emsp;characters.Return the score of s.
