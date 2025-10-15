@@ -66,6 +66,8 @@
 219.Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] \
 &ensp; &emsp;and abs(i - j) <= k.
 
+231.Given an integer n, return true if it is a power of two. Otherwise, return false.
+
 242.Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 268.Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
