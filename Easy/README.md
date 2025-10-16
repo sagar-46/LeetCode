@@ -70,6 +70,8 @@
 
 242.Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
+258.Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
+
 268.Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
 283.Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements. Note that you \
