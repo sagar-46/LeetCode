@@ -100,6 +100,8 @@
 704.Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If \
 &ensp;&emsp;target exists, then return its index. Otherwise, return -1.
 
+709.Given a string s, return the string after replacing every uppercase letter with the same lowercase letter.
+
 876.Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle \
 &ensp;&emsp;node.
 
