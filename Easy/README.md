@@ -77,6 +77,8 @@
 283.Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements. Note that you \
 &ensp; &emsp;must do this in-place without making a copy of the array.
 
+344.Write a function that reverses a string. The input string is given as an array of characters s. Modify the input array in-place .
+
 349.Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may \
 &ensp; &emsp;return the result in any order.
 
