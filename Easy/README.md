@@ -131,6 +131,12 @@
 1929.Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] \
 &ensp; &emsp;for 0 <= i < n (0-indexed).Specifically, ans is the concatenation of two nums arrays.Return the array ans.
 
+2011.There is a programming language with only four operations and one variable X:\
+&ensp; &emsp;++X and X++ increments the value of the variable X by 1.\
+&ensp; &emsp;--X and X-- decrements the value of the variable X by 1.\
+&ensp; &emsp;Initially, the value of X is 0.\
+&ensp; &emsp;Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
+
 2942.You are given a 0-indexed array of strings words and a character x. Return an array of indices representing the words that contain the \
 &ensp; &emsp;character x.
 
