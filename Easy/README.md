@@ -151,3 +151,8 @@
 
 3110.You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent \
 &emsp; &emsp;characters.Return the score of s.
+
+3461.You are given a string s consisting of digits. Perform the following operation repeatedly until the string has exactly two digits:\
+&emsp; &emsp;For each pair of consecutive digits in s, starting from the first digit, calculate a new digit as the sum of the two digits modulo 10.\
+&emsp; &emsp;Replace s with the sequence of newly calculated digits, maintaining the order in which they are computed.\
+&emsp; &emsp;Return true if the final two digits in s are the same; otherwise, return false.
