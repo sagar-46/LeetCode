@@ -130,6 +130,11 @@
 
 1550.Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
 
+1716.Hercy wants to save money for his first car. He puts money in the Leetcode bank every day. \
+&emsp; &emsp;He starts by putting in $1 on Monday, the first day. Every day from Tuesday to Sunday, he will put in $1 more than the day before. On \
+&emsp; &emsp;every subsequent Monday, he will put in $1 more than the previous Monday. \
+&emsp; &emsp;Given n, return the total amount of money he will have in the Leetcode bank at the end of the nth day.
+
 1929.Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] \
 &ensp; &emsp;for 0 <= i < n (0-indexed).Specifically, ans is the concatenation of two nums arrays.Return the array ans.
 
