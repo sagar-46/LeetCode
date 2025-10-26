@@ -24,6 +24,15 @@
 153.Suppose an array of length n sorted in ascending order is rotated between 1 and n times. Given the sorted rotated array nums of unique \
 &emsp;&emsp;elements, return the minimum element of this array.
 
+155.Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. \
+&emsp;&emsp;Implement the MinStack class: \
+&emsp;&emsp;-MinStack() initializes the stack object. \
+&emsp;&emsp;-void push(int val) pushes the element val onto the stack. \
+&emsp;&emsp;-void pop() removes the element on the top of the stack. \
+&emsp;&emsp;-int top() gets the top element of the stack. \
+&emsp;&emsp;-int getMin() retrieves the minimum element in the stack. \
+&emsp;&emsp;You must implement a solution with O(1) time complexity for each function.
+
 167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
 &emsp;&ensp;specific target number. Return the indices of the two numbers added by one as an integer array of length 2.
 
