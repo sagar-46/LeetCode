@@ -33,6 +33,8 @@
 &ensp;&emsp;from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's. Increment the large \
 &ensp;&emsp;integer by one and return the resulting array of digits.
 
+67.Given two binary strings a and b, return their sum as a binary string.
+
 69.Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be \
 &ensp;&emsp;non-negative as well. You must not use any built-in exponent function or operator.
 
