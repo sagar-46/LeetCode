@@ -36,6 +36,8 @@
 167.Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a \
 &emsp;&ensp;specific target number. Return the indices of the two numbers added by one as an integer array of length 2.
 
+172.Given an integer n, return the number of trailing zeroes in n!.
+
 238.Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
 739.Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days \
