@@ -167,3 +167,5 @@
 &emsp; &emsp;For each pair of consecutive digits in s, starting from the first digit, calculate a new digit as the sum of the two digits modulo 10.\
 &emsp; &emsp;Replace s with the sequence of newly calculated digits, maintaining the order in which they are computed.\
 &emsp; &emsp;Return true if the final two digits in s are the same; otherwise, return false.
+
+3370.Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits
