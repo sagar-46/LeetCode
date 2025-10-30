@@ -40,6 +40,10 @@
 
 238.Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
+503.Given a circular integer array nums (i.e., the next element of nums[nums.length - 1] is nums[0]), return the next greater number for every \
+&emsp;&emsp;element in nums.The next greater number of a number x is the first greater number to its traversing-order next in the array, which means \
+&emsp;&emsp;you could search circularly to find its next greater number. If it doesn't exist, return -1 for this number.
+
 739.Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days \
 &emsp;&ensp;you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 \
 &emsp;&ensp;instead.
