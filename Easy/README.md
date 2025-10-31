@@ -163,9 +163,15 @@
 3110.You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent \
 &emsp; &emsp;characters.Return the score of s.
 
+3289.In the town of Digitville, there was a list of numbers called nums containing integers from 0 to n - 1. Each number was supposed to \
+&emsp; &emsp;appear exactly once in the list, however, two mischievous numbers sneaked in an additional time, making the list longer than usual. As the \
+&emsp; &emsp;town detective, your task is to find these two sneaky numbers. Return an array of size two containing the two numbers (in any order), so \
+&emsp; &emsp;peace can return to Digitville.
+
+3370.Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits
+
 3461.You are given a string s consisting of digits. Perform the following operation repeatedly until the string has exactly two digits:\
 &emsp; &emsp;For each pair of consecutive digits in s, starting from the first digit, calculate a new digit as the sum of the two digits modulo 10.\
 &emsp; &emsp;Replace s with the sequence of newly calculated digits, maintaining the order in which they are computed.\
 &emsp; &emsp;Return true if the final two digits in s are the same; otherwise, return false.
 
-3370.Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits
