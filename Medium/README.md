@@ -55,3 +55,6 @@
 &emsp;&emsp;Note that you cannot exchange multiple batches of empty bottles for the same value of numExchange. For example, if numBottles == 3  \
 &emsp;&emsp;and numExchange == 1, you cannot exchange 3 empty water bottles for 3 full bottles. Return the maximum number of water bottles you \
 &emsp;&emsp;can drink.
+
+3217.You are given an array of integers nums and the head of a linked list. Return the head of the modified linked list after removing all nodes \
+&emsp;&emsp;from the linked list that have a value that exists in nums.
