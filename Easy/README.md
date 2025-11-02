@@ -101,6 +101,12 @@
 
 485.Given a binary array nums, return the maximum number of consecutive 1's in the array.
 
+509.The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the \
+&ensp; &emsp;two preceding ones, starting from 0 and 1. That is, \
+&ensp; &emsp;F(0) = 0, F(1) = 1 \
+&ensp; &emsp;F(n) = F(n - 1) + F(n - 2), for n > 1. \
+&ensp; &emsp;Given n, calculate F(n).
+
 605.You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots. \
 &ensp; &emsp;Given an integer array flowerbed containing 0's and 1's, where 0 means empty and 1 means not empty, and an integer n, return true if n \
 &ensp; &emsp;new flowers can be planted in the flowerbed without violating the no-adjacent-flowers rule and false otherwise.
