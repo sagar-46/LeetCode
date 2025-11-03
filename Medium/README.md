@@ -48,6 +48,12 @@
 &emsp;&ensp;you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 \
 &emsp;&ensp;instead.
 
+1578.Alice has n balloons arranged on a rope. You are given a 0-indexed string colors where colors[i] is the color of the ith balloon. \
+&emsp;&emsp;Alice wants the rope to be colorful. She does not want two consecutive balloons to be of the same color, so she asks Bob for help. Bob can \
+&emsp;&emsp;remove some balloons from the rope to make it colorful. You are given a 0-indexed integer array neededTime where neededTime[i] is the \
+&emsp;&emsp;time (in seconds) that Bob needs to remove the ith balloon from the rope. \
+&emsp;&emsp;Return the minimum time Bob needs to make the rope colorful.
+
 3100.You are given two integers numBottles and numExchange. numBottles represents the number of full water bottles that you initially have. \
 &emsp;&emsp;In one operation, you can perform one of the following operations: \
 &emsp;&emsp;Drink any number of full water bottles turning them into empty bottles. \
