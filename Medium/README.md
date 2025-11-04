@@ -19,6 +19,9 @@
 
 53.Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
+137.Given an integer array nums where every element appears three times except for one, which appears exactly once. Find the single element \
+&emsp;&ensp;and return it.
+
 152.Given an integer array nums, find a subarray that has the largest product, and return the product.
 
 153.Suppose an array of length n sorted in ascending order is rotated between 1 and n times. Given the sorted rotated array nums of unique \
