@@ -160,6 +160,16 @@
 &ensp; &emsp;Initially, the value of X is 0.\
 &ensp; &emsp;Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
 
+2325.You are given the strings key and message, which represent a cipher key and a secret message, respectively. The steps to decode message \
+&ensp; &emsp;are as follows: \
+&ensp; &emsp;1.Use the first appearance of all 26 lowercase English letters in key as the order of the substitution table. \
+&ensp; &emsp;2.Align the substitution table with the regular English alphabet. \
+&ensp; &emsp;3.Each letter in message is then substituted using the table. \
+&ensp; &emsp;4.Spaces ' ' are transformed to themselves. \
+&ensp; &emsp;For example, given key = "happy boy" (actual key would have at least one instance of each letter in the alphabet), we have the partial \
+&ensp; &emsp;substitution table of ('h' -> 'a', 'a' -> 'b', 'p' -> 'c', 'y' -> 'd', 'b' -> 'e', 'o' -> 'f'). \
+&ensp; &emsp;Return the decoded message.
+
 2942.You are given a 0-indexed array of strings words and a character x. Return an array of indices representing the words that contain the \
 &ensp; &emsp;character x.
 
