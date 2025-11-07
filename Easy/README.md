@@ -81,6 +81,12 @@
 283.Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements. Note that you \
 &ensp; &emsp;must do this in-place without making a copy of the array.
 
+290.Given a pattern and a string s, find if s follows the same pattern. \
+&ensp; &emsp;Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s. Specifically: \
+&ensp; &emsp;*Each letter in pattern maps to exactly one unique word in s. \
+&ensp; &emsp;*Each unique word in s maps to exactly one letter in pattern. \
+&ensp; &emsp;*No two letters map to the same word, and no two words map to the same letter.
+
 344.Write a function that reverses a string. The input string is given as an array of characters s. Modify the input array in-place .
 
 349.Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may \
