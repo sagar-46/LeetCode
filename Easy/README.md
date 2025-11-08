@@ -63,6 +63,9 @@
 169.Given an array nums of size n, return the majority element. The majority element is the element that appears more than ⌊n / 2⌋ times. You \
 &ensp;&emsp;may assume that the majority element always exists in the array.
 
+191.Given a positive integer n, write a function that returns the number of set bits in its binary representation (also known as the \
+&emsp;&ensp;Hamming weight).
+
 206.Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 217.Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct. 
